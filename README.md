@@ -3,3 +3,4 @@ If it finds someone else coming inside the view of camera, it will automatically
 
 GUI under work
 Face recognition depends on the camera quality
+Working video : https://youtu.be/m0sEbMNpfOU
